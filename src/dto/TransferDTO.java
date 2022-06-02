@@ -2,6 +2,9 @@ package dto;
 
 public class TransferDTO {
 
+
+    // 안녕하세요
+
     private String memberName;
     private int balance;
 
